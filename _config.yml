@@ -5,3 +5,5 @@ show_downloads: false
 google_analytics:
 logo: /assets/img/logo.png
 favicon: /favicon.ico
+github:
+  question_url: https://github.com/jalwn/easy-as-pi/issues/new?assignees=&labels=question&projects=&template=question-template.md&title=Question%3A+
